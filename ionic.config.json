@@ -1,0 +1,7 @@
+{
+  "name": "wassal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
